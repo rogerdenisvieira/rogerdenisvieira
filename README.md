@@ -5,7 +5,6 @@ For further informations about me, please find my personage page: http://rogerde
 # Experience
 
 ### SAP
-
 #### Senior Software Developer
 _July 4th 2022 -- Present_
 
@@ -62,7 +61,7 @@ I was in charge of maintain and develop new features in a 10+ year proprietary C
 ### CWI Software
 _August 2015 - September 2016_
 
-### Developer
+#### Developer
 
 I worked allocated at a netherlands' bank in development and maintenance of a financial system, responsible for customer's profile analysis and credit approval, using legacy technologies as VB.NET and WebForms. Also, I was responsible for keep integrations working between legacy systems, as assurance management, credit recovery, third parties ERP and specialists systems, made over JSF, JSP, ASP.NET MVC and Delphi technologies.
 
