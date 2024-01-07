@@ -15,7 +15,6 @@ _July 4th 2022 -- Present_
 - Maintening and sustaining IBM Cognos data platform at Concur development team.
 
 ## Dell Technologies
-
 #### Principal Software Engineer 
 _April 2022 - July 2022_
 
@@ -40,10 +39,8 @@ _March 2019 - March 2022_
 - Technical alignment with interlocks globally distributed.
 
 ## Agi
-_September 2018 - February 2019_
-
 #### Software Engineer
-
+_September 2018 - February 2019_
 
 - Development of credit score risky assessment APIs using Spring Boot, Camunda BPMN and MongoDB.
 - Integration between AI models and REST APIs through WSO2 and R language.
@@ -52,23 +49,22 @@ _September 2018 - February 2019_
 - Elastic Search business intelligence dashboards creation.
 
 ## Zenvia
+#### Systems Analyst
 _November 2016 - September 2018_
 
-#### Systems Analyst
+
 
 I was in charge of maintain and develop new features in a 10+ year proprietary CRM, made over Struts, JSF, JSP, VRaptor, Hibernate and other misc technologies, providing billing, contract, account and financial management capabilities to business areas. I also develop integrations between core business systems and back office solutions, as TOTVS Protheus ERP, Pipedrive and Hubspot using cutting edge technologies as Spring Boot, Spring Data, Apache Camel, Kafka, NodeJS, Django and DevOps solutions, like Jenkins, Kubernetes and Docker.
 
 ## CWI Software
-_August 2015 - September 2016_
-
 #### Developer
+_August 2015 - September 2016_
 
 I worked allocated at a netherlands' bank in development and maintenance of a financial system, responsible for customer's profile analysis and credit approval, using legacy technologies as VB.NET and WebForms. Also, I was responsible for keep integrations working between legacy systems, as assurance management, credit recovery, third parties ERP and specialists systems, made over JSF, JSP, ASP.NET MVC and Delphi technologies.
 
 ## Mobiltec
-_October 2014 - July 2015_
-
 #### Developer
+_October 2014 - July 2015_
 
 - Development of support tools using Windows Forms, Windows Presentation Foundation (WPF), ASP.NET MVC, Java Swing, and FX.
 - Solving issues on customers' platforms by tracking bugs and deploying solutions. 
@@ -77,19 +73,18 @@ _October 2014 - July 2015_
 - Dedicated support for third-party hosted applicatio
 
 ## BRDE Banco Regional de Desenvolvimento do Extremo Sul
-_October 2013 - July 2014_
-
 #### Intern
-
+_October 2013 - July 2014_
 
 - Infrastructure monitoring with Zabbix and Nagios.
 - Support tickets attendance.
 - Network and hardware maintenance.
 
 ## Active Engenharia
+#### Maintenance Team Leader
 _May 2012 - June 2013_
 
-#### Maintenance Team Leader
+
 
 As a Maintenance Team Lead, I was encharged of delivery maintenance tickets to the operational team members, such electrical, hydraulic and building repairement, in addiiton to VoIP and network installing. Also, I used to create Key Process Indicators (KPIs) to evaluate team's performance.
 
