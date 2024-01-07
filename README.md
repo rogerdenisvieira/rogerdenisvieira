@@ -4,7 +4,7 @@ For further informations about me, please find my personage page: http://rogerde
 
 # Experience
 
-### SAP
+## SAP
 #### Senior Software Developer
 _July 4th 2022 -- Present_
 
@@ -14,7 +14,7 @@ _July 4th 2022 -- Present_
 - Development of Python automations.
 - Maintening and sustaining IBM Cognos data platform at Concur development team.
 
-### Dell Technologies
+## Dell Technologies
 
 #### Principal Software Engineer 
 _April 2022 - July 2022_
@@ -39,7 +39,7 @@ _March 2019 - March 2022_
 - Maintenance of Gitlabs's CICD pipeline.
 - Technical alignment with interlocks globally distributed.
 
-### Agi
+## Agi
 _September 2018 - February 2019_
 
 #### Software Engineer
@@ -51,21 +51,21 @@ _September 2018 - February 2019_
 - Code sanitation and vulnerabilities fixes pointed by quality tools, like SonarQube.
 - Elastic Search business intelligence dashboards creation.
 
-### Zenvia
+## Zenvia
 _November 2016 - September 2018_
 
 #### Systems Analyst
 
 I was in charge of maintain and develop new features in a 10+ year proprietary CRM, made over Struts, JSF, JSP, VRaptor, Hibernate and other misc technologies, providing billing, contract, account and financial management capabilities to business areas. I also develop integrations between core business systems and back office solutions, as TOTVS Protheus ERP, Pipedrive and Hubspot using cutting edge technologies as Spring Boot, Spring Data, Apache Camel, Kafka, NodeJS, Django and DevOps solutions, like Jenkins, Kubernetes and Docker.
 
-### CWI Software
+## CWI Software
 _August 2015 - September 2016_
 
 #### Developer
 
 I worked allocated at a netherlands' bank in development and maintenance of a financial system, responsible for customer's profile analysis and credit approval, using legacy technologies as VB.NET and WebForms. Also, I was responsible for keep integrations working between legacy systems, as assurance management, credit recovery, third parties ERP and specialists systems, made over JSF, JSP, ASP.NET MVC and Delphi technologies.
 
-### Mobiltec
+## Mobiltec
 _October 2014 - July 2015_
 
 #### Developer
@@ -76,7 +76,7 @@ _October 2014 - July 2015_
 - Attendance of support tickets related to the platform.
 - Dedicated support for third-party hosted applicatio
 
-### BRDE Banco Regional de Desenvolvimento do Extremo Sul
+## BRDE Banco Regional de Desenvolvimento do Extremo Sul
 _October 2013 - July 2014_
 
 #### Intern
@@ -86,7 +86,7 @@ _October 2013 - July 2014_
 - Support tickets attendance.
 - Network and hardware maintenance.
 
-### Active Engenharia
+## Active Engenharia
 _May 2012 - June 2013_
 
 #### Maintenance Team Leader
@@ -96,4 +96,44 @@ As a Maintenance Team Lead, I was encharged of delivery maintenance tickets to t
 ---
 
 # Education
+
+
+## PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul
+
+_2022 - 2023_
+
+#### Master of Business Administration (MBA) in Leadership, Innovation, and Management 4.0
+
+
+## Unisinos - Universidade do Vale do Rio dos Sinos
+_2019 - 2021_
+#### Master of Science (M.Sc.) in Applied Computing - Software Engineering
+
+
+## Unisinos - Universidade do Vale do Rio dos Sinos
+_2018 - 2019_
+#### Graduate Degree in Big Data, Data Science and Data Analytics
+
+
+## Unisinos - Universidade do Vale do Rio dos Sinos
+_2013 - 2017_
+### Bachelor of Science in Information Systems
+
+
+## Fundação Escola Técnica Liberato Salzano Vieira da Cunha
+_2009 - 2009_
+#### Technician in Industrial Automation
+
+
+## ULBRA Universidade Luterana do Brasil
+_2008 - 2011_
+#### Technician in Mechatronics
+
+
+## Serviço Nacional de Aprendizagem Industrial
+_2006 - 2008_
+#### Technician in Industrial Electricist
+
+
+
 
