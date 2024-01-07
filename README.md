@@ -99,41 +99,37 @@ As a Maintenance Team Lead, I was encharged of delivery maintenance tickets to t
 
 
 ## PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul
-
+#### Master of Business Administration (MBA) in Leadership, Innovation, and Management 4.0
 _2022 - 2023_
 
-#### Master of Business Administration (MBA) in Leadership, Innovation, and Management 4.0
+
 
 
 ## Unisinos - Universidade do Vale do Rio dos Sinos
-_2019 - 2021_
 #### Master of Science (M.Sc.) in Applied Computing - Software Engineering
+_2019 - 2021_
+
 
 
 ## Unisinos - Universidade do Vale do Rio dos Sinos
-_2018 - 2019_
 #### Graduate Degree in Big Data, Data Science and Data Analytics
-
+_2018 - 2019_
 
 ## Unisinos - Universidade do Vale do Rio dos Sinos
-_2013 - 2017_
 ### Bachelor of Science in Information Systems
-
+_2013 - 2017_
 
 ## Fundação Escola Técnica Liberato Salzano Vieira da Cunha
-_2009 - 2009_
 #### Technician in Industrial Automation
-
+_2009 - 2009_
 
 ## ULBRA Universidade Luterana do Brasil
-_2008 - 2011_
 #### Technician in Mechatronics
-
+_2008 - 2011_
 
 ## Serviço Nacional de Aprendizagem Industrial
-_2006 - 2008_
 #### Technician in Industrial Electricist
-
+_2006 - 2008_
 
 
 
