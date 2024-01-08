@@ -111,7 +111,7 @@ _2019 - 2021_
 _2018 - 2019_
 
 ## Unisinos - Universidade do Vale do Rio dos Sinos
-### Bachelor of Science in Information Systems
+#### Bachelor of Science in Information Systems
 _2013 - 2017_
 
 ## Fundação Escola Técnica Liberato Salzano Vieira da Cunha
